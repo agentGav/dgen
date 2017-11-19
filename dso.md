@@ -1,10 +1,10 @@
-For discussion:
+SOURCE: https://www.nap.edu/read/24886/chapter/7#32 (prepublication)
 
-SOURCE: https://www.nap.edu/read/24886/chapter/7#32
+For discussion purposes:
 
 Data Science Oath
 
-* I swear to fulfill, to the best of my ability and judgment, this
+I swear to fulfill, to the best of my ability and judgment, this
 covenant:
 * I will respect the hard-won scientific gains of those data scientists in
 whose steps I walk and gladly share such knowledge as is mine
