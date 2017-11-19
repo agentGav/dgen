@@ -1,5 +1,6 @@
-SOURCE: https://www.nap.edu/read/24886/chapter/7#32
+For discussion:
 
+SOURCE: https://www.nap.edu/read/24886/chapter/7#32
 
 Data Science Oath
 
